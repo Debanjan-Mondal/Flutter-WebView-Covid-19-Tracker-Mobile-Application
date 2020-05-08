@@ -1,16 +1,3 @@
-# covidtracker
+# Covid-19 Tracker Flutter WebView Mobile Application
 
-A new Flutter application.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+A Flutter Mobile Application to track the real time status of Covid-19 Pandemic. It does not uses any api rather uses WebView to show a responsive Website to the Application. It is the easiest Method to develop a Covid-19 Tracker.
